@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902050801318",
+    "project_id": "medical-fb5c2",
+    "storage_bucket": "medical-fb5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902050801318:android:479f94edfac7222e07f667",
+        "android_client_info": {
+          "package_name": "com.example.e_healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902050801318-magev4lsjd07jja0hknn78mqhqtaajc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_healthcare",
+            "certificate_hash": "0cf78824ec3aee70717df36896f6e0c24cb9d676"
+          }
+        },
+        {
+          "client_id": "902050801318-p48sv6gsvfsfiregcv10usn912t75kd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaP5l670zo-QgIzql_KZRUsfsUJ2RgLKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902050801318-p48sv6gsvfsfiregcv10usn912t75kd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
