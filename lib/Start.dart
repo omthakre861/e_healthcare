@@ -173,7 +173,7 @@ class _StartState extends State<Start> {
               ),
               Container(
                 child: Text(
-                    "Made with ❤ in Virar.", style: TextStyle(
+                    "Made with ❤ in Virar.Developed By Swaraj Patil", style: TextStyle(
                   fontFamily: 'Raleway',
                    // fontStyle:  ,
                   fontSize: 19,
